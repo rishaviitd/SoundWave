@@ -10,3 +10,4 @@
 # !viewqueue will give the songs queued up
 # !play youtube url to play a youtube video
 # THE TOKEN IS RESET BY ME 
+# THE USER WITH ASSIGNED ROLE OF A DJ CAN ONLY PLAY THE SONGS.
