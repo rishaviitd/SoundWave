@@ -9,3 +9,4 @@
 # !play songname again will queue the song 
 # !viewqueue will give the songs queued up
 # !play youtube url to play a youtube video
+# THE TOKEN IS RESET BY ME 
