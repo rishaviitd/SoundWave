@@ -11,3 +11,4 @@
 # !play youtube url to play a youtube video
 # THE TOKEN IS RESET BY ME 
 # THE USER WITH ASSIGNED ROLE OF A DJ CAN ONLY PLAY THE SONGS.
+# join this discord channel https://discord.com/channels/1036989460652499024/1036989460652499027
