@@ -12,3 +12,4 @@
 # THE TOKEN IS RESET BY ME 
 # THE USER WITH ASSIGNED ROLE OF A DJ CAN ONLY PLAY THE SONGS.
 # join this discord channel https://discord.com/channels/1036989460652499024/1036989460652499027
+# download FFmpeg file and add it to the path of the enviorment variable https://ffmpeg.org/download.html
